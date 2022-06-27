@@ -1,0 +1,10 @@
+const String studentAdjustment = "Đánh giá học sinh";
+const String mathPoint = "Điểm Toán";
+const String mathHint = "Nhập điểm Toán";
+const String englishPoint = "Điểm Anh";
+const String englishHint = "Nhập điểm Anh";
+const String liteturePoint = "Điểm Văn";
+const String litetureHint = "Nhập điểm Văn";
+const String adjustment = "Đánh giá";
+const String averageMark = "Điểm Trung bình";
+const String information = "Thông tin";
